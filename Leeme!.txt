@@ -1,0 +1,5 @@
+Johan:
+	-Migracion empleada
+	-Creacion del modulo Estudiante
+	-Esta a nivel de edicion, la infraestructura esta creada
+	-Se necesita Sql Express para su uso correcto
