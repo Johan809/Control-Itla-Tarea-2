@@ -6,7 +6,9 @@ Johan:
 +Edit:
 	-Modulo Profesor Completado
 	-Menu del Home Modificado
-	-Modulo Materia en proceso...
+	-Modulo Materia Completado
+	-Solo faltan los modulos 4 y 5 
+	-Diseñar el Home
 
 
 **Instrucciones** (Traducelas si no las entiendes xd)
