@@ -3,3 +3,29 @@ Johan:
 	-Creacion del modulo Estudiante
 	-Esta a nivel de edicion, la infraestructura esta creada
 	-Se necesita Sql Express para su uso correcto
++Edit:
+	-Modulo Profesor Completado
+	-Menu del Home Modificado
+	-Modulo Materia en proceso...
+
+
+**Instrucciones** (Traducelas si no las entiendes xd)
+
+#Git Instructions
+
+	-git init = Crear un repositorio 
+	-git status = Verificar el estado del repositorio
+	-git add -A = agregar todo lo que hay en el repositorio
+	-git commit -m "nombreVersion" = Iniciar la version del repos
+	-git remote add origin <link del repos> = Declarar direccion del reposonline
+	-git push origin master = subir la version al repos online
+
+#Instructions for Migrations
+
+1.First of all is check that Entity FrameWork 6 package is unistalled, only use Microsft.EntityFrameWork (with the extensions .Tools and .SqlServer)
+
+2.Then run this command in the PM Console:
+ EntityFrameworkCore\Add-Migration "<NameofMigration>" -Context <NameofContextClass>
+
+3.Finally run:
+EntityFrameworkCore\Update-Database -Context <NameofContextClass>

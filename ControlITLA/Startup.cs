@@ -26,7 +26,16 @@ namespace ControlITLA
         {
             services.AddControllersWithViews();
 
+            //Context del Estudiante
             services.AddDbContext<EstudianteContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
+
+            //Context del Profesor
+            services.AddDbContext<ProfesorContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
+
+            //Context de las Materias
+            services.AddDbContext<MateriaContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
         }
 

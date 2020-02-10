@@ -59,17 +59,6 @@ C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcore
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\ControlITLA.pdb
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\ControlITLA.Views.dll
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\ControlITLA.Views.pdb
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\EntityFramework.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\System.CodeDom.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\ControlITLA.Views.pdb
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\ControlITLA.dll
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\ControlITLA.pdb
@@ -171,3 +160,7 @@ C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcore
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\Razor\Views\Estudiante\Index.cshtml.g.cs
 C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\Razor\Views\Estudiante\AddOrEdit.cshtml.g.cs
+C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\Razor\Views\Profesor\AddOrEdit.cshtml.g.cs
+C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\Razor\Views\Profesor\Index.cshtml.g.cs
+C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\Razor\Views\Materia\AddOrEdit.cshtml.g.cs
+C:\Users\Johan Alonzo Plc\source\repos\ControlITLA\ControlITLA\obj\Debug\netcoreapp3.1\Razor\Views\Materia\Index.cshtml.g.cs

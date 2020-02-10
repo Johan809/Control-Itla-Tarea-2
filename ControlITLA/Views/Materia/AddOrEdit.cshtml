@@ -1,0 +1,45 @@
+﻿@model ControlITLA.Models.Materia
+
+@{
+    ViewData["Title"] = "Informacion Materia";
+}
+
+<h4>Informacion Materia</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddOrEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MateriaID" />
+            <div class="form-group">
+                <label asp-for="Codigo" class="control-label"></label>
+                <input asp-for="Codigo" class="form-control" />
+                <span asp-validation-for="Codigo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Creditos" class="control-label"></label>
+                <input asp-for="Creditos" class="form-control" />
+                <span asp-validation-for="Creditos" class="text-danger"></span>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <input type="submit" value="Enviar" class="btn btn-primary btn-block" />
+                </div>
+                <div class="form-group col-md-6">
+                    <a asp-action="Index" class="btn btn-secondary btn-block"><i class="fa fa-table"></i> Lista</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

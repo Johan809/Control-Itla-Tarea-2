@@ -9,7 +9,7 @@ using ControlITLA.Models;
 
 namespace ControlITLA.Controllers
 {
-    public class EstudianteController : Controller
+    public class EstudianteController : Controller  
     {
         private readonly EstudianteContext _context;
 
