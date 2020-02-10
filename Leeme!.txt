@@ -1,4 +1,4 @@
-Johan:
+Johan 2018-6764:
 	-Migracion empleada
 	-Creacion del modulo Estudiante
 	-Esta a nivel de edicion, la infraestructura esta creada
@@ -34,3 +34,5 @@ EntityFrameworkCore\Update-Database -Context <NameofContextClass>
 
 Yostynn 2017-5628.
 Toca realizar mandato #4 y 5 mas el diseño del Home
+
+Nice!
