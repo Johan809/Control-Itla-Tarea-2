@@ -31,3 +31,6 @@ Johan:
 
 3.Finally run:
 EntityFrameworkCore\Update-Database -Context <NameofContextClass>
+
+Yostynn 2017-5628.
+Toca realizar mandato #4 y 5 mas el diseño del Home
